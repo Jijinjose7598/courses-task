@@ -1,0 +1,95 @@
+nav {
+    background:#512EA3;
+    padding: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+   
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+
+li {
+    margin: 0 1em;
+   
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #99857D;
+}
+.App {
+    text-align: center;
+    
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: #ffffff;
+    height:auto;
+   
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    width: 300px;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: black;
+    color:#ffffff;
+}
+
+.card h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.card p {
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+.card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.course-image {
+    max-width: 100%;
+    
+    height: auto;
+    
+    display: block;
+   
+    margin: 0 auto;
+    
+    border-radius: 8px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+.active {
+    font-weight: bold;
+    color: red;
+    /* Change this to your desired active link color */
+}

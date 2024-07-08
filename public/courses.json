@@ -1,0 +1,77 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Java Full Stack Development Course",
+      "description": "Learn full stack development.",
+      "link": "https://guvi.in/zen-class/java-full-stack-development-course/",
+      "image": "https://media.istockphoto.com/id/1356364287/photo/close-up-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-keyboard-screens-show.jpg?s=612x612&w=0&k=20&c=ijjq-DLNxIaPuGvIX8k06IZxMAjGpyJeboaV_byCX9k=",
+      "category": "FullStack"
+      
+    },
+    {
+      "id": 2,
+      "title": "IBM Full Stack Cloud Developer",
+      "description": "Learn full stack cloud development.",
+      "link": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+      "image": "https://st4.depositphotos.com/4678277/28801/i/450/depositphotos_288019916-stock-photo-profile-side-view-of-his.jpg",
+      "category": "FullStack"
+    },
+    {
+      "id": 3,
+      "title": "MERN Full Stack Development",
+      "description": "Learn full stack  development.",
+      "link": "https://www.guvi.in/zen-class/mern-full-stack-development-course-august/?_gl=1*14oi8xz*_gcl_aw*R0NMLjE3MTgwOTM0MTQuQ2p3S0NBanc2NS16QmhCa0Vpd0FqcnFSTUhJYUpSMk14RHAwM21oOE54dHZ1QkdBRElUSDJJLTdKOXZlVElIY055ZkR2OEM5VlRkaF94b0NMRlFRQXZEX0J3RQ..*_gcl_au*MjkwNTM4MDgyLjE3MTUzMjE5MjE.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuEAuGd9BcmdELlWJJ6L7sc29mQ42DvtCGkA&s",
+      "category": "FullStack"
+    },
+    {
+      "id": 4,
+      "title": "Data Science Course",
+      "description": "Learn Data science",
+      "link": "https://www.guvi.in/zen-class/data-science-course/?_gl=1*16llc82*_gcl_aw*R0NMLjE3MTgwOTM0MTQuQ2p3S0NBanc2NS16QmhCa0Vpd0FqcnFSTUhJYUpSMk14RHAwM21oOE54dHZ1QkdBRElUSDJJLTdKOXZlVElIY055ZkR2OEM5VlRkaF94b0NMRlFRQXZEX0J3RQ..*_gcl_au*MjkwNTM4MDgyLjE3MTUzMjE5MjE.",
+      "image": "https://www.shutterstock.com/image-photo/digital-technology-software-development-concept-260nw-2111828198.jpg",
+      "category": "DataScience"
+    },
+    {
+      "id": 5,
+      "title": "IBM Data Science Professional Certificate",
+      "description": "Learn Data science",
+      "link": "https://www.coursera.org/professional-certificates/ibm-data-science",
+      "image": "https://www.michaelpage.com.au/sites/michaelpage.com.au/files/2022-01/Software%20Developer.jpg",
+      "category": "DataScience"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Executive Program in Cybersecurity",
+      "description": "Learn Cyber Security",
+      "link": "https://www.simplilearn.com/pgp-advanced-executive-program-in-cyber-security?source=preview_Cyber%20Security_card&eventname=Mega_Menu_Old_Select_Category_card",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKsk0qXz5PElTAHFduYDn-v98oFdPQgl5sKg&s",
+      "category": "CyberSecurity"
+    },
+    {
+      "id": 7,
+      "title": "Post Graduate Program in Cyber Security",
+      "description": "Learn Cyber Security",
+      "link": "https://www.simplilearn.com/pgp-cyber-security-certification-training-course?source=preview_Cyber%20Security_card&eventname=Mega_Menu_Old_Select_Category",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKmGD4B-w11YAaKUqqDWzMCrS627TGvwhHg&s",
+      "category": "CyberSecurity"
+    },
+    {
+      "id": 8,
+      "title": "Adapting: Career Development Specialization",
+      "description": "Learn career development",
+      "link": "https://www.coursera.org/specializations/adapting-career-development",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7klCnMXOxUTKXQk_mkrUI2_mKJCPQnv0hJg&s",
+      "category": "Career"
+    },
+    {
+      "id": 9,
+      "title": "Career Hacking: The Ultimate Job Search Course (Now w/ AI!)",
+      "description": "Learn career development",
+      "link": "https://www.udemy.com/course/golden-gate-bridge/?couponCode=NVDIN35",
+      "image": "https://www.cio.com/wp-content/uploads/2023/10/certificate-programs-gorodenkoff-shutterstock_2102457331.jpg?quality=50&strip=all&w=1024",
+      "category": "Career"
+    }
+  ]
+}
